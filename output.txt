@@ -1,0 +1,37 @@
+Few Examples of Output:
+
+1)
+Eng : in that case , the us could face retaliatory measures worth up to $ 400 billion per year if it did n’t repeal the tax .
+Ger : in diesem fall könnten die usa , sollten sie die steuer nicht zurückziehen , zu strafzahlungen in höhe von bis zu 400 milliarden dollar im jahr verurteilt werden .
+
+Translanted : in diesem fall könnten die usa vor 400 milliarden dollar , um die fälligen ausgaben nicht zu stabilisieren , wenn es sich nicht an den <unk> .
+
+2)
+Eng : algeria ’s economy has been running in place , with most major businesses and banks still in state hands .
+Ger : algeriens wirtschaft tritt auf der stelle und die meisten größeren unternehmen und banken befinden sich in staatlicher hand .
+
+Translanted : algeriens wirtschaft war in den meisten großen händen der banken und der banken .
+
+3)
+Eng : but adequate investment in mitigating the damage could partly resolve the problem .
+Ger : doch könnten angemessene investitionen in die schadensminderung das problem teilweise lösen .
+
+Translanted : doch könnten investitionen in die kurzfristigen schaden durch die <unk> dieses problem teilweise lösen .
+
+4)
+Eng : because these institutions do not exist , the un must now invent them .
+Ger : da es diese institutionen jedoch nicht gibt , muss die uno sie nun entwickeln .
+
+Translanted : da diese institutionen nicht gibt , müssen sie jetzt die uno übernehmen .
+
+5)
+Eng : moreover , private and public - sector debt levels tend to be much lower in the emerging economies .
+Ger : zum anderen sind dort die verschuldungsniveaus sowohl im privaten als auch im öffentlichen sektor meist wesentlich niedriger .
+
+Translanted : zudem sind die staatsfonds und der privaten staatsverschuldung tendenziell viel niedriger .
+
+6)
+Eng : just 27 % chose america .
+Ger : nur 27 % entschieden sich für amerika .
+
+Translanted : nur 27 % hat sich amerika entschieden .

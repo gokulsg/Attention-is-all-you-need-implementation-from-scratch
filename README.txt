@@ -1,0 +1,38 @@
+Project : Implementation of Transformers for the Software Project "Build your own Transformers"
+
+Name : Gokul Srinivasagan
+e-mail : gosr00001@stud.uni-saarland.de
+Matriculation number : 7022827
+
+Torch version : 1.10.1
+
+About the Project:
+data:
+    This folder contains the dataset used in this project. I have tried with two datasets: 1) PHP dataset (Eng to Ger) and 
+    2) News commentry dataset(v15) [Since this dataset is very large, I have used only 40,000 records]. The dataset is downloaded from
+    https://data.statmt.org/news-commentary/v15/.
+
+    # PHP dataset #
+    Train - 10281
+    Test - 1000
+    Valid - 1000
+
+    # News commentry dataset #
+    Train - 36,000
+    Test - 2000
+    Valid - 2000
+
+    German vocabulary - 27403
+    English vocabulary - 17266
+
+For implementation of this code:
+
+    python main.py
+
+[The hyperparameters values can be changed from main.py file]
+
+For calculating BLEU Score uncomment the last two line of main.py file
+The BLEU Score I got for news commentry dataset is : 14.8
+
+For Data preperation, use python Data_Prep.py and python Data_Prep_php.py (The pre-processed dataset is provided in the data folder)
+Few Translations outputs of the model are provided in output.txt file
